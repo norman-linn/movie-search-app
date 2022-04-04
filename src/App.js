@@ -1,10 +1,12 @@
+import SearchMovie from "./component/SearchMovie";
 import "./App.css";
 
 function App() {
   return (
-    <section className="App">
+    <main className="App">
       <h1 className="title">Movie Search With React JS</h1>
-    </section>
+      <SearchMovie />
+    </main>
   );
 }
 
