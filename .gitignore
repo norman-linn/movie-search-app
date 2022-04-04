@@ -6,7 +6,7 @@
 .pnp.js
 
 # extra
-./extra*
+/extra
 
 
 # testing
